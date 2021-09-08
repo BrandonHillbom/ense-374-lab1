@@ -1,8 +1,9 @@
-## Headings
+## ENSE 374 Lab 1
 
-- This is a list
-- More things in the list
+- This repo is an intro to git and github
+- Markdown features are also explored!
+- Always remember to:
 
-1. This is a number
-1. This is a second number
-1. This is a third number
+1. Add
+1. Commit
+1. Push
